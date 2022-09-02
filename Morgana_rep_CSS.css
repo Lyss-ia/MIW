@@ -1,0 +1,31 @@
+.contentRep_MW{
+width:100%; 
+height:auto;
+color:#5C575A;
+margin:auto;
+padding:0px;
+font-family: 'Noto Sans JP', sans-serif
+}
+
+.repSaison_MW{
+font-size:14px
+;text-align:right;
+}
+
+.titreRep_MW{
+border-top:solid;
+border-bottom:solid;
+border-color:#E6DAE1;
+text-align:center;
+margin-top:15px;font-family: 'EB Garamond', serif;
+font-size:20px;
+padding:10px;}
+
+.txtRep_MW{
+font-size:14px;
+text-align:justify;
+min-height:270px;
+margin:10px;
+
+}
+

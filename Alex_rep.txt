@@ -1,0 +1,14 @@
+<style type ="text/css">.repPic_MWAG{color:Goldenrod;width:180px;height:250px;float:right;background-image:url(https://cdn.discordapp.com/attachments/839269329190912041/1004940623083737098/bebeh.jpg);background-repeat:no-repeat;background-position:center center;background-size:cover;margin-left:10px;border:solid;transition: all 1s linear;}.repPic_MWAG:hover{width:180px;height:250px;float:right;background-image:url(https://cdn.discordapp.com/attachments/839269329190912041/1004941637421641738/peterbro.jpg);background-repeat:no-repeat;background-position:center center;background-size:cover;margin-left:10px;border:solid;transition: all 1s linear;}</style>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Square+Peg&display=swap" rel="stylesheet"><link rel="stylesheet" href="https://drive.google.com/uc?export=view&id=1s2VLSYNJ5w79CN3YJoYNAQO06GdN0lSW"> 
+
+
+<div class="contentRep_MWAG"><div class="titreRep_MWAG">TITRE RP
+
+[size=20]détails supp[/size]
+</div><div class="txtRep_MWAG"><div class="repPic_MWAG"></div>TEXTE TEXTE TEXTE
+
+</div><a href="https://make-it-wow.forumactif.com/u91" target="_blank" style="font-size:10px;">@Lyssia</a></div>
+
+
+
+

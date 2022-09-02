@@ -1,0 +1,16 @@
+<style type ="text/css">.repPic_MW{color:grey;width:180px;height:250px;float:right;background-image:url(https://cdn.discordapp.com/attachments/839269329190912041/888577195776290867/yes.jpg);background-repeat:no-repeat;background-position:center center;background-size:cover;margin-left:10px;border:solid;transition: all 1s linear;}</style>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Kaisei+Tokumin&family=Lovers+Quarrel&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://drive.google.com/uc?export=view&id=1YCxNcDtbzW6I5PEuGuMXA0FKO2G6BPpO"> 
+
+
+<div class="contentRep_MW"><div class="titreRep_MW">TITRE RP
+
+[size=20]détails supp[/size]
+</div><div class="txtRep_MW"><div class="repPic_MW"></div>TEXTE TEXTE TEXTE
+
+</div><a href="https://make-it-wow.forumactif.com/u91" target="_blank" style="font-size:10px;">@Lyssia</a></div>
+
+
+
+
+
