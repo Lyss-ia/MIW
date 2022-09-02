@@ -18,6 +18,10 @@ background:linear-gradient(to right, #00000000,#00000000,crimson,darkred, darkre
 background-size:100% 3px;padding:3px 5px /* egal ou superieur à la hauteur de la fausse bordure */
 }
 
+h4{
+    font-size: 20px;
+}
+
 .txtRep_MWAG{
 color:dark grey;
 font-size:14px;
