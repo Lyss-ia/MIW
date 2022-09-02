@@ -19,7 +19,8 @@ background-size:100% 3px;padding:3px 5px /* egal ou superieur à la hauteur de l
 }
 
 h4{
-    font-size: 20px;
+    font-size: 1em;
+    margin : 1em
 }
 
 .txtRep_MWAG{
