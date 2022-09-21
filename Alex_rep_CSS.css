@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle&family=Square+Peg&display=swap');
 
 .contentRep_MWAG{
 width:100%;
 height:auto;
 margin:auto;
 padding:0px;
-font-family: 'Kaisei Tokumin', serif;
+font-family: 'News Cycle', sans-serif;
 text-align:center;
 }
 
