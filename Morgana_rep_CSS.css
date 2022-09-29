@@ -21,6 +21,25 @@ margin-top:15px;font-family: 'EB Garamond', serif;
 font-size:20px;
 padding:10px;}
 
+.repPic_MW{
+    width:180px;
+    height:250px;
+    float:right;
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-size:cover;
+    margin-left:10px;
+    border:solid;
+    border-color:#E6DAE1;
+    transition: all 1s linear;
+}
+.repPic_MW:hover{
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-size:cover;
+    transition: all 1s linear;
+}
+
 .txtRep_MW{
 font-size:14px;
 text-align:justify;
