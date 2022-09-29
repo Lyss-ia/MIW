@@ -55,13 +55,3 @@ margin:20px;background:linear-gradient(to right, #00000000,#00000000,crimson,dar
 background-size:100% 3px;
 padding:3px 5px /* egal ou superieur à la hauteur de la fausse bordure */
 }
-
-/* .repPic_MW{
-color:grey;
-width:180px;
-height:250px;
-float:right;
-background-image:url(https://cdn.discordapp.com/attachments/839269329190912041/888577195776290867/yes.jpg);
-background-repeat:no-repeat;background-position:center center;
-background-size:cover;margin-left:10px;border:solid;transition: all 1s linear;
-} */
