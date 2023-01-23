@@ -1,0 +1,50 @@
+    .mj_3bcontent{
+    width:100%; 
+    height:auto;
+    color:#b77783;
+    margin:auto;
+    padding:0px;
+    font-family: 'Noto Sans JP', sans-serif
+    }
+    
+    .mj_3btitle{
+    border-top:solid;
+    border-bottom:solid;
+    border-color: #7283ad;
+    text-align:center;
+    margin-top:15px;font-family: 'EB Garamond', serif;
+    font-size:20px;
+    padding:10px;}
+    
+    .mj_3bpic{
+        width:90%;
+        height:250px;
+        margin: auto;
+        background-repeat:no-repeat;
+        background-position:center center;
+        background-size:cover;
+        border:solid;
+        border-color:#7283ad;
+        transition: all 1s linear;
+    }
+    .mj_3bpic:hover{
+        background-repeat:no-repeat;
+        background-position:center center;
+        background-size:cover;
+        transition: all 1s linear;
+    }
+    
+    .mj_3btxt{
+    font-size:14px;
+    text-align:justify;
+    min-height:270px;
+    margin:10px;
+    
+    }
+    
+    a{
+        text-align: center;
+        width: 100%;
+    }
+    
+    
