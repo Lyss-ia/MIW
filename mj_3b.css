@@ -1,31 +1,32 @@
     .mj_3bcontent{
-    width:100%; 
-    height:auto;
-    color:#b77783;
-    margin:auto;
-    padding:0px;
-    font-family: 'Noto Sans JP', sans-serif
+        width:100%; 
+        height:auto;
+        color:#b77783;
+        margin:auto;
+        padding:0px;
+        font-family: 'Noto Sans JP', sans-serif
     }
     
     .mj_3btitle{
-    border-top:solid;
-    border-bottom:solid;
-    border-color: #7283ad;
-    text-align:center;
-    margin-top:15px;font-family: 'EB Garamond', serif;
-    font-size:20px;
-    padding:10px;}
+        font-size: 2em;
+        border-top:solid;
+        border-bottom:solid;
+        border-color: #7283ad;
+        text-align:center;
+        margin-top:15px;font-family: 'EB Garamond', serif;
+        padding:10px;
+}
     
     .mj_3bpic{
         width:90%;
         height:250px;
-        margin: auto;
         background-repeat:no-repeat;
         background-position:center center;
         background-size:cover;
         border:solid;
         border-color:#7283ad;
         transition: all 1s linear;
+        margin : 10px auto;
     }
     .mj_3bpic:hover{
         background-repeat:no-repeat;
@@ -35,16 +36,15 @@
     }
     
     .mj_3btxt{
-    font-size:14px;
-    text-align:justify;
-    min-height:270px;
-    margin:10px;
-    
+        font-size:1.1em;
+        text-align:justify;
+        min-height:270px;
+      
     }
     
-    a{
+    .mj_3blink{
+        width: auto;
         text-align: center;
-        width: 100%;
     }
     
     
