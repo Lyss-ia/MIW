@@ -8,7 +8,7 @@
     }
     
     .mj_3btitle{
-        font-size: 2em;
+        font-size: 1.2em;
         border-top:solid;
         border-bottom:solid;
         border-color: #7283ad;
@@ -36,9 +36,10 @@
     }
     
     .mj_3btxt{
-        font-size:1.1em;
+        font-size:15px;
         text-align:justify;
         min-height:270px;
+        color: #5C575A;;
       
     }
     
