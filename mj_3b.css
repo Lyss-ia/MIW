@@ -18,7 +18,6 @@
 }
     
     .mj_3bpic{
-        width:90%;
         height:250px;
         background-repeat:no-repeat;
         background-position:center center;
@@ -28,14 +27,10 @@
         transition: all 1s linear;
         margin : 10px auto;
     }
-    .mj_3bpic:hover{
-        background-repeat:no-repeat;
-        background-position:center center;
-        background-size:cover;
-        transition: all 1s linear;
-    }
+
     
     .mj_3btxt{
+        margin: 10px;
         font-size:15px;
         text-align:justify;
         min-height:270px;
