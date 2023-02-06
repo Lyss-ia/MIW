@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&family=News+Cycle&display=swap');
+
+.contentRep_NB{
+width:100%;
+height:auto;
+margin:auto;
+padding:0px;
+font-size: 16px;
+font-family: 'News Cycle', sans-serif;
+text-align:center;
+}
+
+.titreRep_NB{
+color:dark grey;
+margin-top:15px;
+font-family: 'Coming Soon', cursive;
+font-size:70px;
+padding:20px;
+background:linear-gradient(to right, #00000000,#00000000,darkgrey,black, black,darkgrey,#00000000,#00000000)no-repeat bottom;/* couleur de fond a inclure dans la dernière image/gradient de fond */
+background-size:100% 3px;padding:3px 5px /* egal ou superieur à la hauteur de la fausse bordure */
+}
+
+h4{
+    font-size: 0.5em;
+    margin: 0;
+    margin-top : 0.5em;
+    font-weight: lighter;
+}
+
+.repPic_NB{
+    color:Goldenrod;
+    width:180px;
+    height:250px;
+    float:right;
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-size:cover;
+    margin-left:10px;
+    border:solid;
+    transition: all 1s linear;
+}
+.repPic_NB:hover{
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-size:cover;
+    transition: all 1s linear;
+}
+
+.txtRep_NB{
+color:dark grey;
+font-size:14px;
+text-align:justify;
+min-height:270px;
+margin:20px;background:linear-gradient(to right, #00000000,#00000000,darkgrey,black, black,darkgrey,#00000000,#00000000)no-repeat bottom;/* couleur de fond a inclure dans la dernière image/gradient de fond */
+background-size:100% 3px;
+padding:3px 5px /* egal ou superieur à la hauteur de la fausse bordure */
+}
