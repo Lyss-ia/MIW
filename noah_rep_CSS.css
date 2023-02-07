@@ -14,21 +14,21 @@ text-align:center;
 color:dark grey;
 margin-top:15px;
 font-family: 'Coming Soon', cursive;
-font-size:70px;
+font-size:50px;
 padding:20px;
 background:linear-gradient(to right, #00000000,#00000000,darkgrey,black, black,darkgrey,#00000000,#00000000)no-repeat bottom;/* couleur de fond a inclure dans la dernière image/gradient de fond */
 background-size:100% 3px;padding:3px 5px /* egal ou superieur à la hauteur de la fausse bordure */
 }
 
 h4{
-    font-size: 0.5em;
+    font-size: 0.3em;
     margin: 0;
     margin-top : 0.5em;
     font-weight: lighter;
 }
 
 .repPic_NB{
-    color:Goldenrod;
+    color:grey;
     width:180px;
     height:250px;
     float:right;
